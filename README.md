@@ -77,7 +77,7 @@ Include the following screenshots:
 * Successful reservation (201 Created)
 * Overbooking error (400 Bad Request)
 * Successful cancellation
-
+(Add images inside a screenshots/ folder)
 
 ---
 
